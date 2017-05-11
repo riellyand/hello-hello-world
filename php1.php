@@ -1,2 +1,3 @@
 <?
 echo phpinfo();
+echo 'hello!';
